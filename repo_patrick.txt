@@ -5,6 +5,3 @@ PROBANDO GIT
 - Operaciones matemáticas
 suma
 resta
-multiplicación
-división
-potencia
