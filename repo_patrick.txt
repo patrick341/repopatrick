@@ -1,3 +1,10 @@
 HOLAAAA REPOSITORIO EN PROCESO
 PROBANDO FUNCIONALIDADES DE GIT
 PROBANDO GIT 
+
+- Operaciones matemáticas
+suma
+resta
+multiplicación
+división
+potencia
