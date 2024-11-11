@@ -5,4 +5,13 @@ PROBANDO GIT --
 
 - Operaciones matemáticas
 suma
-resta
+
+Class Pato (
+    int edad;
+    int altura;
+    int peso;
+
+    Pato();
+    Pato(int,int,int);
+    ~Pato();
+)
