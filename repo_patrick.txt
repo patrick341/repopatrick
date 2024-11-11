@@ -7,4 +7,14 @@ CAMBIO NUEVO
 
 - Operaciones matemáticas
 suma
+
+Class Pato (
+    int edad;
+    int altura;
+    
+
+    Pato();
+    Pato(int,int);
+    ~Pato();
+)
 resta
