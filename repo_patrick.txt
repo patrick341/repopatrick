@@ -9,9 +9,9 @@ suma
 Class Pato (
     int edad;
     int altura;
-    int peso;
+    
 
     Pato();
-    Pato(int,int,int);
+    Pato(int,int);
     ~Pato();
 )
