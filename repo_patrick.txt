@@ -2,6 +2,8 @@ HOLAAAA REPOSITORIO
 123456
 PROBANDO FUNCIONALIDADES DE GIT
 PROBANDO GIT --
+CAMBIO NUEVO
+
 
 - Operaciones matemáticas
 suma
@@ -15,3 +17,4 @@ Class Pato (
     Pato(int,int);
     ~Pato();
 )
+resta
